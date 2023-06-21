@@ -1,4 +1,4 @@
-Projeto desenvolvido no curso de ORM com NodeJS da Alura para a trilha Full Stack do Programa Desenvolve do O Boticário.
+Projeto desenvolvido nos cursos de ORM com NodeJS - inicial e avançado, da Alura para a trilha Full Stack do Programa Desenvolve do O Boticário.
 
 O projeto: 
 
